@@ -1,2 +1,3 @@
 # advent_of_code_2022
-https://www.adventofcode.com
+
+A repo to track my 2022 [Advent of Code](https://www.adventofcode.com) puzzles.
